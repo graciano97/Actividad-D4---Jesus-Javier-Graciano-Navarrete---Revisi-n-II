@@ -1,0 +1,51 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Actividad D4 - Jesus Javier Graciano Navarrete - Revisión II.com" resolutions="1x" timestamp="1605672634806">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_egresados.css" crc="440565002" ref="engreso"/>
+    <file name="master_calendario.css" crc="371209935" ref="caledarrio"/>
+    <file name="master_inscripciones.css" crc="132435209" ref="incripciones"/>
+    <file name="master_inici_.css" crc="385184190" ref="index"/>
+    <file name="engreso.css" crc="3917593307" ref="engreso"/>
+    <file name="caledarrio.css" crc="4289316129" ref="caledarrio"/>
+    <file name="incripciones.css" crc="4214269137" ref="incripciones"/>
+    <file name="index.css" crc="232970870" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="museutils.js" crc="3851988764" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="whatinput.js" crc="86476730" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="require.js" crc="4108833657" ref="index:caledarrio:engreso:incripciones"/>
+  </folder>
+  <folder name="images">
+    <file name="whbwjbw3u3nim.png" crc="114292046" seo="true" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="busss.png" crc="441748433" seo="true" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="buttos.png" crc="3811790325" seo="true" ref="index:caledarrio:engreso:incripciones"/>
+    <file name="u iu iu ji jiuj-u273.png" crc="3997510762" ref="index"/>
+    <file name="u iu iu ji jiuj-u303.png" crc="3997510762" ref="index"/>
+    <file name="hardtd.jpg" crc="78630685" seo="true" ref="index"/>
+    <file name="tpook-u148.png" crc="3759122833" ref="index"/>
+    <file name="winiwwniwubwn0003.png" crc="530012104" seo="true" ref="index"/>
+    <file name="winiwwniwubwn0004.png" crc="4110129903" seo="true" ref="index"/>
+    <file name="winiwwniwubwn0005-u219.png" crc="3118812" ref="index"/>
+    <file name="sniskkns-u692.png" crc="460399500" ref="caledarrio"/>
+    <file name="tpook-u398.png" crc="3817757447" ref="caledarrio"/>
+    <file name="u iu iu ji jiuj-u393.png" crc="3997510762" ref="caledarrio"/>
+    <file name="u iu iu ji jiuj-u391.png" crc="3997510762" ref="caledarrio"/>
+    <file name="cale-u702.png" crc="3763316320" ref="caledarrio"/>
+    <file name="sniskkns-u1224.png" crc="387798734" ref="engreso"/>
+    <file name="tpook-u514.png" crc="3759122833" ref="engreso"/>
+    <file name="u iu iu ji jiuj-u517.png" crc="3997510762" ref="engreso"/>
+    <file name="u iu iu ji jiuj-u531.png" crc="3997510762" ref="engreso"/>
+    <file name="sniskkns-u1231.png" crc="4060449312" ref="incripciones"/>
+    <file name="u iu iu ji jiuj-u1187.png" crc="3997510762" ref="incripciones"/>
+    <file name="u iu iu ji jiuj-u1174.png" crc="3997510762" ref="incripciones"/>
+    <file name="traingulooo.png" crc="4283704455" seo="true" ref="incripciones"/>
+    <file name="ekkemomeinje.png" crc="101899127" seo="true" ref="incripciones"/>
+  </folder>
+  <file name="index.html" crc="355162189" seo="true" mt="1605071771507" redirect="true"/>
+  <file name="caledarrio.html" crc="215911418" seo="true" mt="1605069202406" redirect="true"/>
+  <file name="engreso.html" crc="317305910" seo="true" mt="1605672172377" redirect="true"/>
+  <file name="incripciones.html" crc="446728630" seo="true" mt="1605669260632" redirect="true"/>
+</manifest>
